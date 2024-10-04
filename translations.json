@@ -1,0 +1,38 @@
+{
+    "en": {
+        "header": "Astronomic Picture of the Day",
+        "select_mode": "Select Query Mode:",
+        "single_image": "Single Image",
+        "date_range": "Date Range",
+        "random_images": "Random Images",
+        "select_date": "Select Date",
+        "start_date": "Start Date",
+        "end_date": "End Date",
+        "number_of_images": "Number of Random Images",
+        "fetch_image": "Fetch Image",
+        "explanation": "Explanation",
+        "image_warning": "Image not available for selected date. Please chose another date.",
+        "video_thumbnail": "Video Thumbnail",
+        "select_language": "Select Language",
+        "author": "Author",
+        "api_error": "Error fetching datа. Please try again."
+    },
+    "ru": {
+        "header": "Астрономическое изображение дня",
+        "select_mode": "Выберите режим:",
+        "single_image": "Одиночное изображение",
+        "date_range": "Диапазон дат",
+        "random_images": "Случайные изображения",
+        "select_date": "Выберите дату",
+        "start_date": "Начальная дата",
+        "end_date": "Конечная дата",
+        "number_of_images": "Количество случайных изображений",
+        "fetch_image": "Получить изображение",
+        "explanation": "Описание",
+        "image_warning": "Изображение за выбранную дату недоступно. Пожалуйста, выберите другую дату.",
+        "video_thumbnail": "Минитатюра видео",
+        "select_language": "Выберите язык",
+        "author": "Автор",
+        "api_error": "Ошибка при запросе данных. Пожаоуйста, попробуйте снова"
+    }
+}
